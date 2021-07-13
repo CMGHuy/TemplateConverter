@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="htmlBuilder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/htmlBuilder_jar</output-path>
+    <root id="root">
+      <element id="archive" name="archive.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="htmlBuilder" />
+      </element>
+    </root>
+  </artifact>
+</component>
